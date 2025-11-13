@@ -8,7 +8,6 @@ Focused on building reliable and scalable backend systems using **JavaScript** a
 ### 🚀 About Me
 
 - 🧠 Working on backend services using **Node.js**, **Express**, and **GraphQL**
-- 🧩 Experienced across the full stack, from frontend frameworks to DevOps tooling
 - ⚙️ Passionate about **clean architecture**, **performance optimization**, and **developer experience**
 - 🌱 Continuously learning about **system design**, **scalability**, and **distributed systems**
 - 💬 Always up for a good conversation about backend design patterns or modern JS tooling
